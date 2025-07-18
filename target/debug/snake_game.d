@@ -1,1 +1,0 @@
-/Users/owner/codding/rust/snake_game/target/debug/snake_game: /Users/owner/codding/rust/snake_game/src/direction.rs /Users/owner/codding/rust/snake_game/src/game.rs /Users/owner/codding/rust/snake_game/src/main.rs /Users/owner/codding/rust/snake_game/src/point.rs /Users/owner/codding/rust/snake_game/src/snake.rs
